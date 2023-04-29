@@ -1,5 +1,5 @@
 <h2 align="center">⭐️TermiX ⭐️</h2>
-![TermiX](termix.ai) is a chat bot designed for crypto veterans and new users alike, to find information, execute transactions, and to get informed of potential risks and vulnerabilities when navigating crypto world. It's a Web3 companion you've always wanted.
+![TermiX](https://termix.ai) is a chat bot designed for crypto veterans and new users alike, to find information, execute transactions, and to get informed of potential risks and vulnerabilities when navigating crypto world. It's a Web3 companion you've always wanted.
 
 
 <!-- 
