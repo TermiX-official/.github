@@ -1,6 +1,8 @@
-<h2 align="center">TermiX ⭐️</h2>
+<h2 align="center">⭐️TermiX ⭐️</h2>
 ![TermiX](termix.ai) is a chat bot designed for crypto veterans and new users alike, to find information, execute transactions, and to get informed of potential risks and vulnerabilities when navigating crypto world. It's a Web3 companion you've always wanted.
 
+
+<!-- 
 ### Usage
 Clone extension repository, build code, and add Chrome extension to your browser.
 
@@ -21,7 +23,7 @@ Terminal 3 is built with the following technologies:
 - Node.JS
 - OpenAI
 
-<!-- ### Team
+### Team
 - **AI Engineer**: Masa[@masacao](https://github.com/masacao)
 - **Front-end Engineer**: Allen[@ECNUwyzZL](https://github.com/ECNUwyzZL)
 - **Back-end Engineer**: Joze[@joze144](https://github.com/joze144)
