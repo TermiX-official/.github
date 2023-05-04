@@ -1,5 +1,7 @@
 <h2 align="center">⭐️TermiX ⭐️</h2>
-TermiX (https://termix.ai) is a chat bot designed for crypto veterans and new users alike, to find information, execute transactions, and to get informed of potential risks and vulnerabilities when navigating crypto world. It's a Web3 companion you've always wanted.
+TermiX (https://termix.ai), the ultimate gateway to the world of web3
+🌐 Harness the power of AI to simplify your on-chain operations and secure your digital assets like never before
+🛡️ Join us on our mission to unlock the infinite potential of decentralized platforms 💡
 
 
 <!-- 
@@ -16,11 +18,12 @@ Clone extension repository, build code, and add Chrome extension to your browser
 ![Project Screenshot](https://terminal3.s3.us-west-1.amazonaws.com/imgs/%E5%8A%9F%E8%83%BD%E8%AE%BE%E7%BD%AE%E9%A1%B5%E9%9D%A2.png)
 
 ### Technologies
-Terminal 3 is built with the following technologies:
+TermiX is built with the following technologies:
 
+- Langchain
 - FastAPI
-- Flask
-- Node.JS
+- React
+- NextJs
 - OpenAI
 
 ### Team
