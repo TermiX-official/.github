@@ -1,4 +1,5 @@
-<h2 align="center">⭐️TermiX ⭐️</h2>
+<h2 align="center">⭐️TermiX ⭐️</h2>  
+
 TermiX (https://termix.ai), the ultimate gateway to the world of web3  
 
 🌐 Harness the power of AI to simplify your on-chain operations and secure your digital assets like never before  
